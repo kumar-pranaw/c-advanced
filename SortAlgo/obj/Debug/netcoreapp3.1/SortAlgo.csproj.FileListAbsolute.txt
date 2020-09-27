@@ -1,0 +1,13 @@
+E:\Programs\Practice Programs\SortAlgo\bin\Debug\netcoreapp3.1\SortAlgo.exe
+E:\Programs\Practice Programs\SortAlgo\bin\Debug\netcoreapp3.1\SortAlgo.deps.json
+E:\Programs\Practice Programs\SortAlgo\bin\Debug\netcoreapp3.1\SortAlgo.runtimeconfig.json
+E:\Programs\Practice Programs\SortAlgo\bin\Debug\netcoreapp3.1\SortAlgo.runtimeconfig.dev.json
+E:\Programs\Practice Programs\SortAlgo\bin\Debug\netcoreapp3.1\SortAlgo.dll
+E:\Programs\Practice Programs\SortAlgo\bin\Debug\netcoreapp3.1\SortAlgo.pdb
+E:\Programs\Practice Programs\SortAlgo\obj\Debug\netcoreapp3.1\SortAlgo.csprojAssemblyReference.cache
+E:\Programs\Practice Programs\SortAlgo\obj\Debug\netcoreapp3.1\SortAlgo.csproj.CoreCompileInputs.cache
+E:\Programs\Practice Programs\SortAlgo\obj\Debug\netcoreapp3.1\SortAlgo.AssemblyInfoInputs.cache
+E:\Programs\Practice Programs\SortAlgo\obj\Debug\netcoreapp3.1\SortAlgo.AssemblyInfo.cs
+E:\Programs\Practice Programs\SortAlgo\obj\Debug\netcoreapp3.1\SortAlgo.dll
+E:\Programs\Practice Programs\SortAlgo\obj\Debug\netcoreapp3.1\SortAlgo.pdb
+E:\Programs\Practice Programs\SortAlgo\obj\Debug\netcoreapp3.1\SortAlgo.genruntimeconfig.cache
