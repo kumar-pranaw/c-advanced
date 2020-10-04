@@ -11,3 +11,16 @@ E:\Programs\Practice Programs\SortAlgo\obj\Debug\netcoreapp3.1\SortAlgo.Assembly
 E:\Programs\Practice Programs\SortAlgo\obj\Debug\netcoreapp3.1\SortAlgo.dll
 E:\Programs\Practice Programs\SortAlgo\obj\Debug\netcoreapp3.1\SortAlgo.pdb
 E:\Programs\Practice Programs\SortAlgo\obj\Debug\netcoreapp3.1\SortAlgo.genruntimeconfig.cache
+C:\Users\pranav.verma\Documents\c-advanced\SortAlgo\bin\Debug\netcoreapp3.1\SortAlgo.exe
+C:\Users\pranav.verma\Documents\c-advanced\SortAlgo\bin\Debug\netcoreapp3.1\SortAlgo.deps.json
+C:\Users\pranav.verma\Documents\c-advanced\SortAlgo\bin\Debug\netcoreapp3.1\SortAlgo.runtimeconfig.json
+C:\Users\pranav.verma\Documents\c-advanced\SortAlgo\bin\Debug\netcoreapp3.1\SortAlgo.runtimeconfig.dev.json
+C:\Users\pranav.verma\Documents\c-advanced\SortAlgo\bin\Debug\netcoreapp3.1\SortAlgo.dll
+C:\Users\pranav.verma\Documents\c-advanced\SortAlgo\bin\Debug\netcoreapp3.1\SortAlgo.pdb
+C:\Users\pranav.verma\Documents\c-advanced\SortAlgo\obj\Debug\netcoreapp3.1\SortAlgo.csprojAssemblyReference.cache
+C:\Users\pranav.verma\Documents\c-advanced\SortAlgo\obj\Debug\netcoreapp3.1\SortAlgo.AssemblyInfoInputs.cache
+C:\Users\pranav.verma\Documents\c-advanced\SortAlgo\obj\Debug\netcoreapp3.1\SortAlgo.AssemblyInfo.cs
+C:\Users\pranav.verma\Documents\c-advanced\SortAlgo\obj\Debug\netcoreapp3.1\SortAlgo.csproj.CoreCompileInputs.cache
+C:\Users\pranav.verma\Documents\c-advanced\SortAlgo\obj\Debug\netcoreapp3.1\SortAlgo.dll
+C:\Users\pranav.verma\Documents\c-advanced\SortAlgo\obj\Debug\netcoreapp3.1\SortAlgo.pdb
+C:\Users\pranav.verma\Documents\c-advanced\SortAlgo\obj\Debug\netcoreapp3.1\SortAlgo.genruntimeconfig.cache

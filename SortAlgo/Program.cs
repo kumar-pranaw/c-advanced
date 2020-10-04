@@ -10,18 +10,26 @@ namespace SortAlgo
 
         static void Main(string[] args)
         {
-            while(true)
+            var data = SortingAlgorithm.DefaultSorting();
+
+            var employees = SortingAlgorithm.ListEmployees().OrderByDescending(x => x.EmpName).ToList();
+
+            foreach (var item in employees)
+            {
+                Console.WriteLine(item.Id+" "+item.EmpName + ' '+item.EmpSalary );
+            }
+            while (true)
             {
                 PublicConstructor test = new PublicConstructor();
                 Console.WriteLine(test.baseline);
                 Thread.Sleep(1000);
             }
-           // var selectedInt = ReturnSelectedInt();
+            var selectedInt = ReturnSelectedInt();
 
-            //foreach (var item in selectedInt)
-            //{
-            //    Console.WriteLine(item);
-            //}
+            foreach (var item in selectedInt)
+            {
+                Console.WriteLine(item);
+            }
         }
 
         public static IEnumerable<int> ReturnSelectedInt()
