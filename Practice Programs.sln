@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortAlgo", "SortAlgo\SortAlgo.csproj", "{E28D229D-A496-415D-9DB4-63A2CDF6EBA0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortAlgo", "SortAlgo\SortAlgo.csproj", "{E28D229D-A496-415D-9DB4-63A2CDF6EBA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns", "DesignPatterns\DesignPatterns.csproj", "{F628CFDE-7C49-4DFC-A87E-7AB48BB12EA4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{E28D229D-A496-415D-9DB4-63A2CDF6EBA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E28D229D-A496-415D-9DB4-63A2CDF6EBA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E28D229D-A496-415D-9DB4-63A2CDF6EBA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F628CFDE-7C49-4DFC-A87E-7AB48BB12EA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F628CFDE-7C49-4DFC-A87E-7AB48BB12EA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F628CFDE-7C49-4DFC-A87E-7AB48BB12EA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F628CFDE-7C49-4DFC-A87E-7AB48BB12EA4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

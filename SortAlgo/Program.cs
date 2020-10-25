@@ -10,26 +10,49 @@ namespace SortAlgo
 
         static void Main(string[] args)
         {
-            var data = SortingAlgorithm.DefaultSorting();
 
-            var employees = SortingAlgorithm.ListEmployees().OrderByDescending(x => x.EmpName).ToList();
+            var stringNumber = "455";
+            Console.WriteLine(Convert.ToInt32(stringNumber));
+            
+            
+            dynamic dd = 1;
+            dd = "Hello Worlds";
 
-            foreach (var item in employees)
+            int n1 = 0, n2 = 1, n3, i, number;
+            Console.Write("Enter the number of elements: ");
+            number = int.Parse(Console.ReadLine());
+            Console.Write(n1 + " " + n2 + " "); //printing 0 and 1    
+            for (i = 2; i < number; i++) //loop starts from 2 because 0 and 1 are already printed    
             {
-                Console.WriteLine(item.Id+" "+item.EmpName + ' '+item.EmpSalary );
+                n3 = n1 + n2;
+                Console.Write(n3 + " ");
+                n1 = n2;
+                n2 = n3;
             }
-            while (true)
-            {
-                PublicConstructor test = new PublicConstructor();
-                Console.WriteLine(test.baseline);
-                Thread.Sleep(1000);
-            }
-            var selectedInt = ReturnSelectedInt();
+            PartialClass.EmpFirstName = "Pranav";
+            PartialClass.EmpLastName = "Kumar";
+            Console.WriteLine(PartialClass.MyName());
+            //var data = SortingAlgorithm.DefaultSorting();
 
-            foreach (var item in selectedInt)
-            {
-                Console.WriteLine(item);
-            }
+            //var employees = SortingAlgorithm.ListEmployees().OrderByDescending(x => x.EmpName).ToList();
+
+            //foreach (var item in employees)
+            //{
+            //    Console.WriteLine(item.Id+" "+item.EmpName + ' '+item.EmpSalary );
+            //}
+            //while (true)
+            //{
+            //    PublicConstructor test = new PublicConstructor();
+            //    Console.WriteLine(test.baseline);
+            //    Thread.Sleep(1000);
+            //}
+
+            //var selectedInt = ReturnSelectedInt();
+
+            //foreach (var item in selectedInt)
+            //{
+            //    Console.WriteLine(item);
+            //}
         }
 
         public static IEnumerable<int> ReturnSelectedInt()
@@ -48,6 +71,7 @@ namespace SortAlgo
                 if (item > 5) yield return item;
             }
         }
+
     }
 
     /// <summary>
