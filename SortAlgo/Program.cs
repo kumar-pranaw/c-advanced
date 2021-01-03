@@ -65,6 +65,8 @@ namespace SortAlgo
             list.Add(7);
             list.Add(8);
             list.Add(9);
+            list.Add(10);
+            list.Add(11);
 
             foreach (var item in list)
             {
